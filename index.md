@@ -1,4 +1,33 @@
-## Welcome to GitHub Pages
+## About me
+I'm a 2nd year PhD student in Department of Computer Science, University of Chicago, advised by Prof. Shan Lu. 
+
+I'm currently working on applying formal methods to provide better end-user programming experience in smart home.  More specifically,  I'm interested in developing tools that could help users to debug, diagnose or synthesize trigger-action programs in their smart home.
+
+I got my bachelor degree in electronic engineering from Tsinghua University in 2017.
+
+## Research Project
+**AutoTap** 
+
+It is a tool that uses formal specifications to verify, debug or synthesize trigger-action programs in smart home. It provides a user-friendly interface allowing users to turn their requirements into formal specifications from only clicking. By analyzing automata of the current system, it identifies potential violations and suggests patches.
+
+A demo could be found [here](https://youtu.be/gAtLgqD2yHQ) (please watch with subtitles on).
+
+## Publication
+ - AutoTap: Synthesizing and Repairing Trigger-Action Programs Using LTL Properties, to appear in ICSE'19
+
+## Awards
+ - 2017: Ceres scholar for incoming PhD students
+
+## Contact
+**Email**: lefanz at uchicago dot edu
+
+**Address**: 5730 S Ellis Ave, Chicago, IL 60637
+
+## Resume
+My resume can be found [here](./cv.pdf).
+
+
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zlfben/zlfben.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +63,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
